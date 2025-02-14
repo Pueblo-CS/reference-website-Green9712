@@ -12,6 +12,9 @@ p {
 li {
     list-style-position: inside;
 }
+a {
+    color: rgb(23, 228, 23);
+}
 .Navigation {
     margin: 0;
     background-color: rgb(72, 124, 72);
@@ -20,4 +23,5 @@ li {
 .source {
     font-size: small;
     margin: 0;
+    color: lightgray;
 }
