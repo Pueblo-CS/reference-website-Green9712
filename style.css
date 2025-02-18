@@ -1,13 +1,11 @@
 body {
     text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
     
     color: lightgrey;
     background-color: rgb(163, 104, 55);
     
-}
-p {
-    font-size: 20px;
-    font-family: sans-serif;
 }
 li {
     list-style-position: inside;
